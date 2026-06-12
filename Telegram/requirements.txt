@@ -1,0 +1,5 @@
+telethon
+MetaTrader5
+python-dotenv
+google-generativeai
+reportlab
